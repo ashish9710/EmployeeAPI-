@@ -234,3 +234,4 @@
 /home/kb038/Documents/MyDotNetAPI/EmployeeAPI/obj/Debug/net8.0/EmployeeAPI.pdb
 /home/kb038/Documents/MyDotNetAPI/EmployeeAPI/obj/Debug/net8.0/EmployeeAPI.genruntimeconfig.cache
 /home/kb038/Documents/MyDotNetAPI/EmployeeAPI/obj/Debug/net8.0/ref/EmployeeAPI.dll
+/home/kb038/Documents/MyDotNetAPI/EmployeeAPI/obj/Debug/net8.0/EmployeeAPI.sourcelink.json
